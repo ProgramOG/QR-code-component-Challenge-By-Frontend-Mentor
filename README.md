@@ -17,7 +17,7 @@ QR code component challenge on Frontend Mentor
 - Semantic HTML5 markup
 - CSS custom properties
 
-
+### Social Links
 - Frontend Mentor - [ProgramOG](https://www.frontendmentor.io/profile/ProgramOG)
 - Twitter - [@ProgramOG](https://www.twitter.com/ProgramOG)
 
