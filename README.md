@@ -9,8 +9,8 @@ QR code component challenge on Frontend Mentor
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-component-challenge-sqDtBEtWIq)
+- Live Site URL: (https://programog.github.io/QR-code-component-Challenge-By-Frontend-Mentor/)
 
 ### Built with
 
@@ -18,6 +18,6 @@ QR code component challenge on Frontend Mentor
 - CSS custom properties
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [ProgramOG](https://www.frontendmentor.io/profile/ProgramOG)
+- Twitter - [@ProgramOG](https://www.twitter.com/ProgramOG)
 
